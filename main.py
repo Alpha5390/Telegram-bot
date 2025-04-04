@@ -10,8 +10,8 @@ import yt_dlp
 import sys
 import asyncio
 
-TOKEN = "8183549397:AAHy3nETk7Zn7cJlzHUVX84fzqCWZf_zGC4"  
-ADMIN_ID = 6646928202  
+TOKEN = "6893432095:AAF49zTzLeZxxu7HxozapAMQrOlsPcDOpQk"  
+ADMIN_ID = 1180623848
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
